@@ -2,9 +2,11 @@
 
 一个虚拟岛国的品牌形象网站，纯属虚构，做得也像假的一样。
 
-👉 [在线预览](https://papawestray.github.io/home/)
+###👉 [在线预览](https://papawestray.github.io/home/)
 
-~~话说陶彦吉不能把这个域名搞得简单一点吗。。。~~
+##关注  [陶](https://space.bilibili.com/3546717116959127)  和 [S482](https://space.bilibili.com/3546845032745659) 谢谢喵！
+
+~~话说陶彦吉不能把这个域名搞得简单一点吗。。。~~  ——不能
 
 ---
 
@@ -132,4 +134,3 @@ MIT，随便用，随便改。
 
 如果觉得有点意思，欢迎点个 ⭐ Star，或者提 Issue 聊聊你想象中的虚拟国家该怎么设计。
 
-关注[陶](https://space.bilibili.com/3546717116959127)和 [S482](https://space.bilibili.com/3546845032745659) 谢谢喵。
